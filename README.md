@@ -30,7 +30,7 @@
 
 # 📖 SingleSwap <a name="about-project"></a>
 
-SingleSwap is a web3 application using nextjs and hardhat. It is a project similar to uniswap and currently developing.
+SingleSwap involves building a decentralized exchange (DEX) focused on the ETH/Crypto Dev asset pair, implementing a 1% fee on swaps and rewarding liquidity providers with Crypto Dev LP tokens based on their Ether contributions. It utilizes Next.js and Hardhat frameworks for development.
 
 ### Tech Stack <a name="tech-stack"></a>
 
