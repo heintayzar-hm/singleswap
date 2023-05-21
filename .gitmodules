@@ -1,0 +1,3 @@
+[submodule "subdirectory"]
+	path = subdirectory
+	url = https://github.com/heintayzar-hm/exchange.git
