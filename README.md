@@ -51,8 +51,10 @@ SingleSwap is a web3 application using nextjs and hardhat. It is a project simil
 
 ### Key Features <a name="key-features"></a>
 
-- A user can swap the token and currency
-- But new tokens.
+- Built an exchange with only one asset pair (Eth / Crypto Dev)
+- Decentralized Exchange take a fee of 1% on swaps
+- When user adds liquidity, they should be given Crypto Dev LP tokens (Liquidity Provider tokens)
+- CD LP tokens should be given proportional to the Ether user is willing to add to the liquidity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +87,7 @@ In order to run this project you need:
 Clone this repository to your desired folder(`web3`):
 
 ```sh
- git clone https://github.com/heintayzar-hm/exchange.git
+ git clone https://github.com/heintayzar-hm/singleswap.git
 ```
 
 
@@ -94,7 +96,7 @@ Clone this repository to your desired folder(`web3`):
 Install Exchange Project with:
 
 ```sh
-  cd exchange
+  cd singleswap
   npm install
 ```
 For the env file,
