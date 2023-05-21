@@ -64,7 +64,7 @@ SingleSwap is a web3 application using nextjs and hardhat. It is a project simil
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Deployed Link](https://gvash-planes.vercel.app/)
+- [Deployed Link](https://exchange-ykcl-2c8arisqh-heintayzar-hm.vercel.app/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -85,7 +85,7 @@ In order to run this project you need:
 Clone this repository to your desired folder(`web3`):
 
 ```sh
- git clone https://github.com/V-Blaze/GVASH-PLANES-API.git
+ git clone https://github.com/heintayzar-hm/exchange.git
 ```
 
 
@@ -94,7 +94,7 @@ Clone this repository to your desired folder(`web3`):
 Install Exchange Project with:
 
 ```sh
-  cd --
+  cd exchange
   npm install
 ```
 For the env file,
@@ -110,7 +110,6 @@ For the env file,
 - Run the following.
 
 ```
-   cd singleswap
    npm install
    npm run dev
 ```
